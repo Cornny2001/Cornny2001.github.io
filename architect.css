@@ -120,7 +120,7 @@ img{
 }
 
 .header{
-    width:100%;
+    width:1280px;
     height:635px;
     background-image:url(szegg.png)
 }
@@ -167,7 +167,8 @@ button{
 .mission{
     position:absolute;
     top:670px;
-    left:575px;
+    left:center;
+    padding-left: 570px;
     color:rgba(249,239,239,0.98);
     font-family: 'Roboto', sans-serif;
 }   
@@ -175,7 +176,9 @@ button{
 .great{
     position:absolute;
     top:700px;
-    left:370px;
+    left:center;
+    width: 1000px;
+    padding-left: 300px;
     color:rgba(249,239,239,0.98);
     font-family: 'Roboto', sans-serif;
     text-align: center;
