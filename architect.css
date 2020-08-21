@@ -291,6 +291,8 @@ button{
     position:absolute;
     top:890px;
     left:590px;
+    padding-left:590px;
+    width: 103px;
     font-family: 'Roboto', sans-serif;
     border:solid 2px rgba(50, 62, 235, 0.94);
     opacity: 1;
