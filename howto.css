@@ -181,6 +181,7 @@ button:hover{
 
 .hazak{
     top:560px;
+    width:1280px;
     position: absolute;
     box-shadow: 0 5px 20px black;
 }
