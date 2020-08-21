@@ -168,7 +168,8 @@ button{
     position:absolute;
     top:670px;
     left:center;
-    padding-left: 570px;
+    padding-left: 580px;
+    width: 800px;
     color:rgba(249,239,239,0.98);
     font-family: 'Roboto', sans-serif;
 }   
